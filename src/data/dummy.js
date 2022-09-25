@@ -34,7 +34,7 @@ export const zoology = [
       "intensification of intestinal contractions",
       "absorption of vitamin A , D , E , K  ",
     ],
-    correctAnswers: ["(a)", "(b)", "(d)", "(e)"],
+    correctAnswers: ["(a)", "(d)", "(e)"],
   },
   {
     id: 4,
@@ -71,7 +71,7 @@ export const zoology = [
       "The amino acids are constantly needed for the formation of protoplasm",
       "No chemical digestion in the large intestine",
     ],
-    correctAnswers: ["(a)", "(b)", "(c)", "(d)"],
+    correctAnswers: ["(d)", "(e)"],
   },
   {
     id: 7,
@@ -107,7 +107,7 @@ export const zoology = [
       " Stops salivary enzyme action. ",
       "Inhibits the secretion of the gastric juice.",
     ],
-    correctAnswers: ["(b)", "(d)"],
+    correctAnswers: ["(a)", "(b)"],
   },
   {
     id: 10,
@@ -211,10 +211,10 @@ export const zoology = [
       "Which of the following nutrients is/are correctly matched with its/their utility?",
     selections: [
       "carbohydrate     -----energy yielding",
-      "protein     ----body building",
-      "fat      -----growth and repair",
-      "Nucleic acid     -----maintenance of the body",
-      "Starch    ----Hereditary substance",
+      "fat     ----body building",
+      "protein      -----growth and repair",
+      "vitamins     -----maintenance of the body",
+      "Nucleic acids    ----Hereditary substance",
     ],
     correctAnswers: ["(a)", "(c)", "(d)", "(e)"],
   },
