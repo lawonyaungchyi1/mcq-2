@@ -47,18 +47,18 @@ const Form = () => {
       >
         <Button
           variant="outlined"
-          color="error"
+          color="secondary"
           onClick={decreaseCount}
           disabled={counter === 1 ? true : false}
         >
           Prev
         </Button>
-        <Button variant="contained" color="error" onClick={notify}>
+        <Button variant="contained" color="secondary" onClick={notify}>
           Check
         </Button>
         <Button
           variant="outlined"
-          color="error"
+          color="secondary"
           onClick={increaseCount}
           disabled={counter === zoology.length ? true : false}
         >
